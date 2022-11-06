@@ -1,3 +1,5 @@
+// tim duong di tu 1 dinh den moi dinh
+// dung cho do thi co huong vo huong ko co canh am
 #include <bits/stdc++.h>
 #define ll long long
 const ll mod = (ll)1e9 + 7;
